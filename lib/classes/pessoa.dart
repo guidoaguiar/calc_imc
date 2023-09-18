@@ -1,5 +1,4 @@
 import 'package:calc_imc/enum/tipo_sexo.dart';
-// Classe pessoa para calcular o IMC
 
 class Pessoa {
   String _nome = "";
